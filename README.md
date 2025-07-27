@@ -49,3 +49,8 @@ Use Cases:
 Movie Enthusiasts: Quickly look up movie details and posters.
 Entertainment Planning: Find movies by genre for movie nights.
 Personal Collection: Save favorite movies visually without needing an account.
+
+#OUTPUT#
+<img width="1849" height="866" alt="Image" src="https://github.com/user-attachments/assets/d1a67505-e350-469e-80e4-3ee62256b7b7" />
+<img width="1875" height="874" alt="Image" src="https://github.com/user-attachments/assets/b98470a7-cf28-4b88-873c-93276234965a" />
+<img width="1835" height="856" alt="Image" src="https://github.com/user-attachments/assets/958dc4bc-e074-4738-bd22-24f079d8e6c8" />
